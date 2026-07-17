@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- GIF DI TENGAH ATAS -->
-<img src="[https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif](https://imgs.search.brave.com/MKqAxCTJQQuWAEpODTHxbEq-Vx3iAiyIdS6k_3aHxIM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhiVEl5TWpsdmRt/ZDNjalZuYkhaM2JI/QmtkSGRuWW1wM2My/Rm9aV1JwWkRONU5X/MTBhbTl6WXlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vZnFyWFU1YmZu/YlFnOWJDQUtJLzIw/MC5naWY.gif)" width="600" alt="Cybersecurity Banner GIF">
+<img src="https://imgs.search.brave.com/MKqAxCTJQQuWAEpODTHxbEq-Vx3iAiyIdS6k_3aHxIM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhiVEl5TWpsdmRt/ZDNjalZuYkhaM2JI/QmtkSGRuWW1wM2My/Rm9aV1JwWkRONU5X/MTBhbTl6WXlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vZnFyWFU1YmZu/YlFnOWJDQUtJLzIw/MC5naWY.gif" width="600" alt="Cybersecurity Banner GIF">
 
 # 🛠️ SPAMMER
 
