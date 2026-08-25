@@ -39,7 +39,7 @@ Pastikan perangkat kamu sudah terinstal Python 3.x dan Git.
 
 ```bash
 # Clone repositori
-git clone [https://github.com/username/OTP-62.git]
+git clone https://github.com/username/OTP-62.git
 
 # Masuk ke folder project
 cd OTP-62
